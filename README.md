@@ -11,6 +11,7 @@ ABSTRACT:
 --------------------------------------------------------------------------------------------
 
 FEATURES:
+
 ✅ Real-Time Hand Tracking – Detects hand gestures using webcam and computer vision.
 
 ✅ Touchless Cursor Control – Move the cursor using index, middle, and thumb finger positions.
