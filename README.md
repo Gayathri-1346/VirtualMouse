@@ -12,7 +12,9 @@ This project aims to improve accessibility, hygiene, and interactivity in comput
 
 FEATURES:
 ✅ Real-Time Hand Tracking – Detects hand gestures using webcam and computer vision.
+
 ✅ Touchless Cursor Control – Move the cursor using index, middle, and thumb finger positions.
+
 ✅ Mouse Operations – Perform left and right clicks using specific finger gestures.
 ✅ Scrolling – Scroll up and down using multiple finger combinations.
 ✅ Volume and Brightness Control – Adjust system audio and display brightness using two-hand gestures.
