@@ -1,4 +1,4 @@
-                                **** VIRTUAL MOUSE USING HAND GESTURES ****
+                                ** VIRTUAL MOUSE USING HAND GESTURES **
 
 
 ABSTRACT:
