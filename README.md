@@ -2,11 +2,11 @@
 
 
 ABSTRACT:
-The Virtual Mouse is a computer vision-based system built using Python, OpenCV, Mediapipe, and CVZone.
-It enables users to control the mouse cursor using hand gestures detected via a webcam.
-The system replaces traditional input devices with a touchless, intuitive, and hygienic control mechanism.
-Users can move the cursor, perform left and right clicks, scroll, and adjust brightness and volume using simple hand movements.
-This project aims to improve accessibility, hygiene, and interactivity in computing through artificial intelligence and real-time hand tracking.
+- The Virtual Mouse is a computer vision-based system built using Python, OpenCV, Mediapipe, and CVZone.
+- It enables users to control the mouse cursor using hand gestures detected via a webcam.
+- The system replaces traditional input devices with a touchless, intuitive, and hygienic control mechanism.
+- Users can move the cursor, perform left and right clicks, scroll, and adjust brightness and volume using simple hand movements.
+- This project aims to improve accessibility, hygiene, and interactivity in computing through artificial intelligence and real-time hand tracking.
 
 --------------------------------------------------------------------------------------------
 
@@ -16,15 +16,19 @@ FEATURES:
 ✅ Touchless Cursor Control – Move the cursor using index, middle, and thumb finger positions.
 
 ✅ Mouse Operations – Perform left and right clicks using specific finger gestures.
+
 ✅ Scrolling – Scroll up and down using multiple finger combinations.
+
 ✅ Volume and Brightness Control – Adjust system audio and display brightness using two-hand gestures.
+
 ✅ User-Friendly Interface – Live visual feedback through on-screen gesture box.
+
 ✅ Accessible and Hygienic – Ideal for touch-free environments and physically impaired users.
 
 --------------------------------------------------------------------------------------------
 
 PROJECT STRUCTURE:
-Virtual-Mouse/
+```Virtual-Mouse/
 |
 |---- virtual_mouse.py   ->  main logic   
 |
@@ -32,7 +36,8 @@ Virtual-Mouse/
 |
 |___ README.txt               -> Project documentation
 |
-|___ demo_video.mp4           -> Demonstration file 
+|___ demo_video.mp4           -> Demonstration file
+```
 
 --------------------------------------------------------------------------------------------
 
